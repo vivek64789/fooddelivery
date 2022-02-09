@@ -1,0 +1,4 @@
+# Referenced at /Users/vivek/Downloads/repack.xyz_-_codecanyon-multi-restaurants-flutter-php-laravel-admin-panel/Update to v260/flutter_application/build/app/intermediates/merged_manifests/debug/AndroidManifest.xml:31
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/vivek/Downloads/repack.xyz_-_codecanyon-multi-restaurants-flutter-php-laravel-admin-panel/Update to v260/flutter_application/build/app/intermediates/merged_manifests/debug/AndroidManifest.xml:31
+-keep class androidx.multidex.MultiDexApplication { <init>(); }
